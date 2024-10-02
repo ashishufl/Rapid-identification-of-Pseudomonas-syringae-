@@ -1,2 +1,18 @@
-# Rapid-identification-of-Pseudomonas-syringae-
-Disease note 
+# Rapid-identification-of-Pseudomonas-syringae- ((CLASS PROJECT))
+##Disease note  (class project)
+
+##First report on rapid identification of Pseudomonas syringae pathovars from unknown samples 
+
+## A. Adhikari, T. Lamichhane, E. Ozbudak, J. Xu, Department of Plant pathology, University of Florida, Gainesville, Florida, USA
+
+The bacterium Pseudomonas syringae, is an opportunistic pathogen that attacks a wide variety of woody plants. It is unique among most Pseudomonas syringae pathovars in its ability to cause disease in several unrelated genera (Baca et al 1987; Bradburry 1986). Pseudomonas syringae pv. Syringae also occurs on nursery and landscape plants throughout the U.S and can cause shoot and flower blights, cankers, and diebacks. In spring 2018, we got unknown sample at University of Florida, Department of plant pathology lab, Gainesville, Florida. The collected sample has the symptoms like small brown spots that appear on the leaves and those spots were in the center surrounded by a yellow ring. The symptoms appeared on spots had an overlap and very irregular along with spread in the fruit and leaves too. Tomato bacterial speck is one of the tomato disease that has similar symptoms with bacterial spot and bacterial canker, but the sample symptoms appeared are not enough to distinguish the pathogen is of either of speck disease or of canker disease. The sample we got is previously unreported host of Pseudomonas syringae pv syringae but some symptoms are overlapped with the host plants. The host pathogen in this new sample was identified based on biochemical, nutritional tests along with molecular marker 16S RNA gene (Irina et al, 2004) and overlapped symptoms expressed in host plants. The tissues from the unknown sample were taken from the margin of symptomatic area and cultured on Nutrient agar media. The colonies looked white slimy. It was gram negative and anaerobic based on KOH and Thioglycolate test. The sample was then plated in King’s B media (KBM). After 2 days of incubation at 26°C, colonies were fluorescent. LOPAT test were performed and results showd, Levan positive, Oxidase negative, Pectate negative Arginine negative tobacco HR reaction positive. Starch test was positive whereas  ice nucleation test was positive. BIOLOG had similarity score with Pseudomonas syringae pv syringae (Klement et al. 1966). Further confirmation was done using 16S rDNA amplification and sequencing. Phylogeny was created based on maximum likelihood and neighbor joining for analysis (Irina et al, 2004). Based on the phylogenetic tree of 16S rRNA gene, the unknown sample clustered with Pseudomonas syringae in the same clade. To our knowledge, there is no other reports available for rapid diagnosis of bacterial disease symptoms similar to Pseudomonas syringae species in a new host plant. That is why, this can assist easy and rapid diagnosis of Pseudomonas related disease symptoms in new host plants.
+
+##References 
+Baca, S. and Moore, L.W. 1987. Variations in Pseudomonas syringae isolated from grass species occurring in woody plant nurseries in the Pacific Northwest. Plant Disease 71:724-726
+
+Bradbury JF 1986. Pseudomonas syringae pv. syringae. In ‘Guide to plant pathogenic bacteria’. 
+
+Klement, Z., Farkas, G. L., and Lourekovich, L. 1966. Hypersensitive reaction induced by phytopathogenic bacteria in tobacco leaf. Phytopathology.
+
+Irina A. Milyutina, Vera K. Bobrova, Eugenia V. Matveeva, Norman W. Schaad, Alexey V. Troitsky; 2004. Intragenomic heterogeneity of the 16S rRNA–23S rRNA internal transcribed spacer among Pseudomonas syringae and Pseudomonas fluorescens strains, FEMS Microbiology Letter.
+![image](https://github.com/user-attachments/assets/712afb64-d105-4d36-bfa7-4b466345e282)
